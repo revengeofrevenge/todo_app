@@ -1,0 +1,19 @@
+name: todo_app
+description: A Flutter Todo List App
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^15.1.1
+  intl: ^0.18.1
+  provider: ^6.0.5
+  timezone: ^0.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
